@@ -44,4 +44,4 @@ This project helped me understand how machine learning can be used in real-world
 
 ## Author
 
-Alok Jangid
+Anushka Tripathi
